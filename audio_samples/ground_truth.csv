@@ -1,0 +1,21 @@
+index,locality,sentence,condition,filename,filepath,status,language
+1,Koramangala,Mera ghar Koramangala ke paas hai,quiet_room,01_koramangala_quiet_room.wav,audio_samples/01_koramangala_quiet_room.wav,dry_run,Hinglish
+2,Indiranagar,"Haan, main Indiranagar mein rehta hoon",street_noise,02_indiranagar_street_noise.wav,audio_samples/02_indiranagar_street_noise.wav,dry_run,Hinglish
+3,Whitefield,"Sir, main Whitefield wala hoon",phone_call,03_whitefield_phone_call.wav,audio_samples/03_whitefield_phone_call.wav,dry_run,Hinglish
+4,Electronic City,"Ji, Electronic City area mein",rushed,04_electronic_city_rushed.wav,audio_samples/04_electronic_city_rushed.wav,dry_run,Hinglish
+5,Marathahalli,"Ji, Marathahalli area mein",whispered,05_marathahalli_whispered.wav,audio_samples/05_marathahalli_whispered.wav,dry_run,Hinglish
+6,Jayanagar,Main Jayanagar se hoon,quiet_room,06_jayanagar_quiet_room.wav,audio_samples/06_jayanagar_quiet_room.wav,dry_run,Hinglish
+7,Rajajinagar,Mera ghar Rajajinagar ke paas hai,street_noise,07_rajajinagar_street_noise.wav,audio_samples/07_rajajinagar_street_noise.wav,dry_run,Hinglish
+8,Hebbal,Mera ghar Hebbal ke paas hai,phone_call,08_hebbal_phone_call.wav,audio_samples/08_hebbal_phone_call.wav,dry_run,Hinglish
+9,Yelahanka,Main Yelahanka mein kaam karta hoon,rushed,09_yelahanka_rushed.wav,audio_samples/09_yelahanka_rushed.wav,dry_run,Hinglish
+10,Banashankari,"Haan, main Banashankari mein rehta hoon",whispered,10_banashankari_whispered.wav,audio_samples/10_banashankari_whispered.wav,dry_run,Hinglish
+11,HSR Layout,"Haan, main HSR Layout mein rehta hoon",quiet_room,11_hsr_layout_quiet_room.wav,audio_samples/11_hsr_layout_quiet_room.wav,dry_run,Hinglish
+12,BTM Layout,Mera ghar BTM Layout ke paas hai,street_noise,12_btm_layout_street_noise.wav,audio_samples/12_btm_layout_street_noise.wav,dry_run,Hinglish
+13,Majestic,"Ji, Majestic area mein",phone_call,13_majestic_phone_call.wav,audio_samples/13_majestic_phone_call.wav,dry_run,Hinglish
+14,Silk Board,"Ji, Silk Board area mein",rushed,14_silk_board_rushed.wav,audio_samples/14_silk_board_rushed.wav,dry_run,Hinglish
+15,Bellandur,"Haan, main Bellandur mein rehta hoon",whispered,15_bellandur_whispered.wav,audio_samples/15_bellandur_whispered.wav,dry_run,Hinglish
+16,Sarjapur,"Ji, Sarjapur area mein",quiet_room,16_sarjapur_quiet_room.wav,audio_samples/16_sarjapur_quiet_room.wav,dry_run,Hinglish
+17,Bommanahalli,Main Bommanahalli mein kaam karta hoon,street_noise,17_bommanahalli_street_noise.wav,audio_samples/17_bommanahalli_street_noise.wav,dry_run,Hinglish
+18,KR Puram,"Ji, KR Puram area mein",phone_call,18_kr_puram_phone_call.wav,audio_samples/18_kr_puram_phone_call.wav,dry_run,Hinglish
+19,Peenya,"Haan bhai, Peenya hi rehta hoon",rushed,19_peenya_rushed.wav,audio_samples/19_peenya_rushed.wav,dry_run,Hinglish
+20,Yeshwanthpur,"Sir, main Yeshwanthpur wala hoon",whispered,20_yeshwanthpur_whispered.wav,audio_samples/20_yeshwanthpur_whispered.wav,dry_run,Hinglish
